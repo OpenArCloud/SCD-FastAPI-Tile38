@@ -26,7 +26,7 @@ gration Working Group](https://github.com/MetaverseStandards/Virtual-Real-Integr
 1. Clone and install
     ```sh
     git clone https://github.com/OpenArCloud/SCD-FastAPI-Tile38.git
-    cd SSD-FastAPI-Tile38
+    cd SCD-FastAPI-Tile38
     poetry install
     ```
 2. Setup environment
@@ -40,7 +40,7 @@ gration Working Group](https://github.com/MetaverseStandards/Virtual-Real-Integr
 
 ## Usage
 
-Once the application is started you can checkout and interact with it via on [localhost:8001/docs](http://localhost:8002/docs).
+Once the application is started you can checkout and interact with it via on [localhost:8002/docs](http://localhost:8002/docs).
 
 Or you can use it with [http](https://httpie.io/)/[curl](https://curl.se/):
 
